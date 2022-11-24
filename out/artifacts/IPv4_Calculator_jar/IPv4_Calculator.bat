@@ -1,0 +1,1 @@
+java --module-path "C:\javafx-sdk-19\lib" --add-modules ALL-MODULE-PATH -jar IPv4_Calculator.jar
